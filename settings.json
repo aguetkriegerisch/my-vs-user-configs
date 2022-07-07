@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+    "editor.background": "#010101",
+	"sideBar.background": "#080808",
+	"tab.inactiveBackground": "#09090900",
+	"sideBar.border": "#4d89f8",
+    "tab.activeBorder": "#4d89f8",
+    //"tab.activeBorderTop": "#4d89f8"
+    },
+    "yaml.schemas": {
+        "file:///c%3A/Users/Soporte/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": false,
+    "files.autoSave": "afterDelay",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+    "key-sync.GitRemoteRepository": "https://github.com/aguetkriegerisch/my-vs-key-bindings.git",
+    "key-sync.GitBranch": "main",
+    "key-sync.RepoFolder": "C:/Users/Soporte/AppData/Roaming/Code/User/globalStorage/my-vs-key-bindings"
+}
