@@ -6,3 +6,5 @@
 sync/extensions/lastSyncextensions.json
 sync/globalState/lastSyncglobalState.json
 sync/keybindings/lastSynckeybindings.json
+/sync/extensions/lastSyncextensions.json
+/sync/globalState/lastSyncglobalState.json
