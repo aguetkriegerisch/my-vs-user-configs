@@ -52,5 +52,40 @@
         "key": "ctrl+shift+oem_4",
         "command": "-editor.fold",
         "when": "editorTextFocus && foldingEnabled"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "key-code.active && !editorFocus && activeEditor == 'workbench.editor.extension'"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "editorIsOpen || editorFocus && key-code.active"
+    },
+    {
+        "key": "ctrl+k ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "editorHasDocumentSelectionFormattingProvider && editorTextFocus && key-code.active && !editorReadonly"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "key-code.active && webviewFindWidgetEnabled && !editorFocus && activeEditor == 'WebviewEditor'"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "inDebugRepl && key-code.active && textInputFocus"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "inSettingsEditor && key-code.active"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-key-code.keybind",
+        "when": "inKeybindings && key-code.active"
     }
 ]
