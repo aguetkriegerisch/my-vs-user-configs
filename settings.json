@@ -23,7 +23,10 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
-    "key-sync.GitRemoteRepository": "https://github.com/aguetkriegerisch/my-vs-key-bindings.git",
-    "key-sync.GitBranch": "main",
-    "key-sync.RepoFolder": "C:/Users/Soporte/AppData/Roaming/Code/User/globalStorage/my-vs-key-bindings"
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "500",
+    "editor.autoClosingOvertype":"always",
+    "editor.detectIndentation":false
 }
