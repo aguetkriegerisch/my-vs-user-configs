@@ -26,7 +26,7 @@
         "sideBar.border": "#D4B25599",
         "sideBarSectionHeader.background": "#4D291955",
 
-        "tab.inactiveBackground": "#4d29194d",
+        "tab.inactiveBackground": "#4D291955",
         "tab.inactiveForeground": "#ffffffbb",
         "tab.activeBorder": "#4d89f8",
         "tab.activeBackground": "#9CDCFE22",
