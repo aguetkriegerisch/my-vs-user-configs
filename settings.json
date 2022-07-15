@@ -42,9 +42,15 @@
 
         "statusBar.background": "#4D2919CC",
         "statusBar.foreground": "#fff",
+        "statusBar.border": "#D4B255",
         "statusBarItem.remoteBackground": "#D4B255",
         "statusBarItem.remoteForeground": "#000",
-
+        "statusBarItem.errorBackground": "#ff0000",
+        "statusBarItem.errorForeground": "#000",
+        "statusBarItem.warningBackground": "#ffe016",
+        "statusBarItem.warningForeground": "#000",
+        "statusBarItem.hoverBackground": "#D4B25555",
+        "statusBarItem.focusBorder": "#4d89f8",
         "button.background": "#D4B255DD",
         "inputOption.activeBorder": "#4D2919",
         "focusBorder": "#D4B255",
