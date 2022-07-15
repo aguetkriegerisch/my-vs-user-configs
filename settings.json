@@ -1,16 +1,17 @@
 {
-    "workbench.colorTheme": "Default Dark+",
-    "workbench.preferredDarkColorTheme": "Default Dark+",
+    //"workbench.colorTheme": "Default Dark+",
+    //"workbench.preferredDarkColorTheme": "Default Dark+",
     "workbench.colorCustomizations": {
         "titleBar.activeBackground": "#4D2919CC",
+        "titleBar.activeForeground": "#ffffffCC",
         "titleBar.border": "#D4B25599",
         "editor.background": "#010101",
-        //"editor.fontFamily": "Fira Code",
-        "editor.fontFamily": "Hasklig",
+        "editor.fontFamily": "Fira Code",
+        //"editor.fontFamily": "Hasklig",
         //"editor.fontFamily": "Victor Mono",
         //"editor.fontFamily": "Jetbrains Mono",
         "editor.fontLigatures": true,
-        "editor.fontSize": 15, 
+        "editor.fontSize": 14, 
         "editor.fontWeight": "350",
         "editor.autoClosingOvertype":"always",
         "editor.tabSize": 3,
@@ -26,14 +27,14 @@
         "tab.inactiveBackground": "#4d29194d",
         "tab.inactiveForeground": "#ffffffbb",
         "tab.activeBorder": "#4d89f8",
+        "tab.activeBackground": "#9CDCFE22",
         //"tab.activeBorderTop": "#4d89f8",
 
         "activityBar.background": "#4D2919CC",
         "activityBar.foreground": "#D4B255",
         "activityBar.border": "#D4B25599",
-        "activityBar.activeBorder": "#D4B255",
-        "activityBar.inactiveForeground": "#ffffff77",
-        "activityBar.activeForeground": "#D4B2559",
+        "activityBar.inactiveForeground": "#9CDCFEAA",
+        //"activityBar.activeForeground": "#D4B2559",
 
         //"badge.background": "#4d89f8",
         "button.background": "#4D2919",
@@ -46,8 +47,9 @@
         "statusBar.foreground": "#fff",
         "statusBarItem.remoteBackground": "#D4B255",
         "statusBarItem.remoteForeground": "#000",
+
         "inputOption.activeBorder": "#4D2919",
-        
+        "focusBorder": "#D4B255",
     },
     "yaml.schemas": {
         "file:///c%3A/Users/Soporte/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
