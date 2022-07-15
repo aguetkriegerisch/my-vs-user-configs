@@ -29,7 +29,7 @@
     //"editor.fontFamily": "Jetbrains Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 14, 
-    "editor.fontWeight": "500",
+    "editor.fontWeight": "350",
     "editor.autoClosingOvertype":"always",
    "editor.tabSize": 3
 }
