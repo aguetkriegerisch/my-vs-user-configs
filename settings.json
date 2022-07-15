@@ -1,13 +1,52 @@
 {
-    //"workbench.colorTheme": "Default Dark+",
-    //"workbench.preferredDarkColorTheme": "Default Dark+",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
     "workbench.colorCustomizations": {
-    "editor.background": "#010101",
-	"sideBar.background": "#080808",
-	"tab.inactiveBackground": "#09090900",
-	"sideBar.border": "#4d89f8",
-    "tab.activeBorder": "#4d89f8",
-    //"tab.activeBorderTop": "#4d89f8"
+        "titleBar.activeBackground": "#4D2919CC",
+        "titleBar.border": "#D4B25599",
+        "editor.background": "#010101",
+        //"editor.fontFamily": "Fira Code",
+        "editor.fontFamily": "Hasklig",
+        //"editor.fontFamily": "Victor Mono",
+        //"editor.fontFamily": "Jetbrains Mono",
+        "editor.fontLigatures": true,
+        "editor.fontSize": 15, 
+        "editor.fontWeight": "350",
+        "editor.autoClosingOvertype":"always",
+        "editor.tabSize": 3,
+        
+        "editorGroupHeader.tabsBorder": "#000",
+        "editorGroupHeader.noTabsBackground": "#fff",
+
+        "sideBar.background": "#080808",
+        "sideBar.border": "#D4B25599",
+        "sideBarSectionHeader.background": "#4D291955",
+
+        //"tab.inactiveBackground": "#09090900",
+        "tab.inactiveBackground": "#4d29194d",
+        "tab.inactiveForeground": "#ffffffbb",
+        "tab.activeBorder": "#4d89f8",
+        //"tab.activeBorderTop": "#4d89f8",
+
+        "activityBar.background": "#4D2919CC",
+        "activityBar.foreground": "#D4B255",
+        "activityBar.border": "#D4B25599",
+        "activityBar.activeBorder": "#D4B255",
+        "activityBar.inactiveForeground": "#ffffff77",
+        "activityBar.activeForeground": "#D4B2559",
+
+        //"badge.background": "#4d89f8",
+        "button.background": "#4D2919",
+
+        "list.focusAndSelectionOutline": "#D4B25599",
+        "list.focusOutline": "#D4B25599",
+        "list.activeSelectionBackground": "#4d291955",
+
+        "statusBar.background": "#4D2919CC",
+        "statusBar.foreground": "#fff",
+        "statusBarItem.remoteBackground": "#D4B255",
+        "statusBarItem.remoteForeground": "#000",
+        "inputOption.activeBorder": "#4D2919",
     },
     "yaml.schemas": {
         "file:///c%3A/Users/Soporte/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
@@ -23,13 +62,5 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
-    //"editor.fontFamily": "Fira Code",
-    "editor.fontFamily": "Hasklig",
-    //"editor.fontFamily": "Victor Mono",
-    //"editor.fontFamily": "Jetbrains Mono",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 14, 
-    "editor.fontWeight": "350",
-    "editor.autoClosingOvertype":"always",
-   "editor.tabSize": 3
+    "window.zoomLevel": 1,
 }
