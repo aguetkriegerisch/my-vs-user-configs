@@ -1,21 +1,24 @@
 {
-    //"workbench.colorTheme": "Default Dark+",
-    //"workbench.preferredDarkColorTheme": "Default Dark+",
+    //"editor.fontFamily": "Fira Code",
+    "editor.fontFamily": "Hasklig",
+    //"editor.fontFamily": "Victor Mono",
+    //"editor.fontFamily": "Jetbrains Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "450",
+    "editor.autoClosingOvertype":"always",
+    "editor.tabSize": 3,
+    "window.zoomLevel": 1,
+    
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.preferredDarkColorTheme": "Default Dark+",
     "workbench.colorCustomizations": {
+
         "titleBar.activeBackground": "#4D2919CC",
         "titleBar.activeForeground": "#ffffffCC",
         "titleBar.border": "#D4B25599",
+
         "editor.background": "#010101",
-        "editor.fontFamily": "Fira Code",
-        //"editor.fontFamily": "Hasklig",
-        //"editor.fontFamily": "Victor Mono",
-        //"editor.fontFamily": "Jetbrains Mono",
-        "editor.fontLigatures": true,
-        "editor.fontSize": 14, 
-        "editor.fontWeight": "350",
-        "editor.autoClosingOvertype":"always",
-        "editor.tabSize": 3,
-        
         "editorGroupHeader.tabsBorder": "#000",
         "editorGroupHeader.noTabsBackground": "#fff",
 
@@ -23,21 +26,15 @@
         "sideBar.border": "#D4B25599",
         "sideBarSectionHeader.background": "#4D291955",
 
-        //"tab.inactiveBackground": "#09090900",
         "tab.inactiveBackground": "#4d29194d",
         "tab.inactiveForeground": "#ffffffbb",
         "tab.activeBorder": "#4d89f8",
         "tab.activeBackground": "#9CDCFE22",
-        //"tab.activeBorderTop": "#4d89f8",
 
         "activityBar.background": "#4D2919CC",
         "activityBar.foreground": "#D4B255",
         "activityBar.border": "#D4B25599",
         "activityBar.inactiveForeground": "#9CDCFEAA",
-        //"activityBar.activeForeground": "#D4B2559",
-
-        //"badge.background": "#4d89f8",
-        "button.background": "#4D2919",
 
         "list.focusAndSelectionOutline": "#D4B25599",
         "list.focusOutline": "#D4B25599",
@@ -48,6 +45,7 @@
         "statusBarItem.remoteBackground": "#D4B255",
         "statusBarItem.remoteForeground": "#000",
 
+        "button.background": "#D4B255DD",
         "inputOption.activeBorder": "#4D2919",
         "focusBorder": "#D4B255",
     },
@@ -65,5 +63,8 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
-    "window.zoomLevel": 1,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
 }
