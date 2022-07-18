@@ -28,8 +28,8 @@
 
         "tab.inactiveBackground": "#4D291955",
         "tab.inactiveForeground": "#ffffffbb",
-        "tab.activeBorder": "#4d89f8",
-        "tab.activeBackground": "#9CDCFE22",
+        "tab.activeBorder": "#D4B255",
+        "tab.activeBackground": "#D4B25522",
 
         "activityBar.background": "#4D2919CC",
         "activityBar.foreground": "#D4B255",
