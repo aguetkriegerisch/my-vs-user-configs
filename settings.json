@@ -40,6 +40,11 @@
         "list.focusOutline": "#D4B25599",
         "list.activeSelectionBackground": "#4d291955",
 
+        "scrollbarSlider.background": "#D4B25533",
+        "scrollbarSlider.hoverBackground": "#D4B25566",
+        "scrollbarSlider.activeBackground": "#D4B25599",
+        "scrollbar.shadow": "#9CDCFEAA",
+
         "statusBar.background": "#4D2919CC",
         "statusBar.foreground": "#fff",
         "statusBar.border": "#D4B255",
@@ -51,9 +56,27 @@
         "statusBarItem.warningForeground": "#000",
         "statusBarItem.hoverBackground": "#D4B25555",
         "statusBarItem.focusBorder": "#4d89f8",
+        "statusBarItem.activeBackground": "#D4B25577",
+        "statusBarItem.compactHoverBackground": "#D4B25555",
+        "statusBar.debuggingBackground": "#ff5900",
+
+        "statusBar.noFolderBackground": "#ff0000",
+        "statusBarItem.prominentBackground": "#ff0000",
+        "statusBarItem.settingsProfilesBackground": "#ff0000",
+        "statusBarItem.prominentHoverBackground": "#ff0000",
+        "notebook.cellStatusBarItemHoverBackground": "#ff0000",
+        "editorHoverWidget.statusBarBackground": "#ff0000",
+        "editor.snippetFinalTabstopHighlightBackground": "#ff0000",
+        "gitDecoration.stageDeletedResourceForeground": "#ff0000",
+
+        "notebookStatusSuccessIcon.foreground": "#5fff5c",
+        "notebookStatusErrorIcon.foreground": "#ff0000",
+        "notebookStatusRunningIcon.foreground": "#ffe016",
+
         "button.background": "#D4B255DD",
         "inputOption.activeBorder": "#4D2919",
         "focusBorder": "#D4B255",
+
     },
     "yaml.schemas": {
         "file:///c%3A/Users/Soporte/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
